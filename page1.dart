@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//this is a statless widget
 class page1 extends StatelessWidget {
   const page1({Key? key}) : super(key: key);
 
